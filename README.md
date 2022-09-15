@@ -1,2 +1,2 @@
 # bens-candidatos-eleicoes2022-clusterizacao
-Dataset and notebook
+O objetivo neste projeto é realizar rotinas de análises exploratórias e aplicação de um algoritmo de machine learning (kmeans) para identificar similaridades entre os partidos políticos com base na declaração de patrimônio de seus quadros nas eleições de 2022 (levando em consideração todos os cargos), além algumas outras análises exploratórias a nível de partido. Para este objetivo utilizamos, além do Python, a linguagem SQL para a construção dos dados de interesse. Pandas, scikit-learn, pandasql e Seaborn foram algumas das bibliotecas utilizadas para nosso fim.
